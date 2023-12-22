@@ -1,7 +1,7 @@
 <script>
-  export let title = "Upwardd Mobility";
-  export let description = "What role did the neighborhood you grew up in have in shaping your economic opportunities? Author Aaron Williams tells a data story about migration, community, and returning to your roots.";
-  export let url = "https://pudding.cool/2022/11/upward-mobility";
+  export let title = "Dataviz";
+  export let description = "Escritório de Dados";
+  export let url = "https://github.com/prefeitura-rio/MAM";
   export let keywords = "economic, opportunity, migration, great migration, neighborhood, community, family, income, race";
   export let preloadFont = [];
 </script>
