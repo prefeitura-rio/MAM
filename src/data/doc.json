@@ -1,0 +1,184 @@
+{
+  "title": "MAM",
+  "description": "Neste especial, você será convidado para uma viagem na história de uma das maiores obras da arquitetura carioca, o Museu de Arte Moderna do Rio de Janeiro.",
+  "byline": "Aaron Williams",
+  "bylineUrl": "https://pudding.cool/author/aaron-williams",
+  "url": "https://pudding.cool",
+  "keywords": "story",
+  "intro": [  {
+    "block": "subhead",
+    "text": "Parte I &nbsp&nbsp A História"
+  },
+    {
+      "block": "text",
+      "text": "“I don’t think you’d be the same person had we stayed in L.A.,” my mom told me recently. “I wanted you to have better opportunities.”\r\n\r\n\r\nAbout a year ago, I moved back to my birthplace, Los Angeles. The move came after six years on the east coast and a desire to be closer to my family.\r\n\r\n\r\nIt’s weird coming back to a place so familiar yet foreign. Despite being born in L.A., and raised just south of the city, I moved to the San Francisco Bay Area when I was 7, rendering Los Angeles a relic of my childhood, a menagerie of foggy memories.\r\n\r\n\r\n"
+    }
+    
+  ],
+  "outcomes": [
+    {
+      "block": "leadtext",
+      "subhead": "Text1",
+      "id": "madera-ggp",
+      "text": "O Museu de Arte Moderna do Rio de Janeiro é uma instituição referência para a arte e para a cultura do país. Fundado em 1948, possui uma das mais relevantes coleções de arte moderna e contemporânea da América Latina, com mais de 16 mil obras. Situado no Parque do Flamengo, foi projetado por Affonso Eduardo Reidy e desempenha um papel fundamental no desenvolvimento do Rio de Janeiro."
+    },
+    {
+      "block": "leadtext",
+      "id": "madera-farm",
+      "text": "No dia 8 de julho de 1978, um incêndio que começou na sala de som do museu destruiu mais da metade de todo o acervo, composto por artistas de renome como Pablo Picasso, Salvador Dalí, Cândido Portinari e Di Cavalcanti. Parte da História artística brasileira e mundial virou cinza, numa perna com danos incalculáveis. Pouca coisa restou, entre elas a estrutura do prédio modernista como conhecemos hoje. As causas do incêndio nunca foram esclarecidas. À época, jornais apontaram como hipótese mais provável um curto-circuito causado por instalações elétricas defeituosas. O museu só foi reaberto três anos depois, em 1981."
+    },
+    {
+      "block": "leadtext",
+      "id": "madera-mom",
+      "text": "Entre os dias 28 e 29 de junho de 1999, o Rio sediou a primeira reunião de cúpula da América Latina, Caribe e União Europeia. Foi entre os muros do Museu de Arte Moderna que 15 chefes de Estado e representantes de 48 países instituíram uma Parceria Estratégica Birregional, em vigor até os dias atuais. \n\n\nEntre os 69 pontos presentes na declaração final, destacam-se temas tais como comércio e integração regional, democracia e direitos humanos, combate à pobreza e promoção social, mudanças climáticas e desenvolvimento sustentável."
+    },
+    {
+      "block": "leadtext",
+      "subhead": "Text 2",
+      "id": "gardena-mom-and-me",
+      "text": "In the 1960s, my grandparents moved to East Gardena, Calif. (a.k.a. West Rancho Dominguez or West Compton), about 15 miles south of downtown L.A. Most of my family is from here, and it’s where I was born."
+    },
+    {
+      "block": "leadtext",
+      "id": "gardena-air",
+      "text": "Growing up, I knew two things to be true: almost everyone looked like me, and it was hard to breathe. My proximity to lousy air quality made breathing a chore, and my asthma didn’t help either. Hospital visits were typical back then. But it was home."
+    },
+    {
+      "block": "leadtext",
+      "id": "gardena-preschool",
+      "text": "Assuming no changes in parental wealth, my expected income would be <strong>$38,000</strong>, <strong>2x</strong> the predicted income from Madera."
+    },
+    {
+      "block": "leadtext",
+      "subhead": "Text 3",
+      "id": "fremont",
+      "text": "In 1996, my mother took a leap of faith. Her job was closing their L.A. office, and they offered her two options: accept a layoff or relocate near the new hub in San Francisco. Tired of her life in L.A. and wanting to raise me in a better neighborhood, she moved us 373 miles north to the Bay Area suburb of Fremont, Calif."
+    },
+    {
+      "block": "leadtext",
+      "id": "fremont-2",
+      "text": "The city is on the east end of the Dumbarton Bridge, which connects Fremont to Menlo Park, Calif., making it an ideal location because we had family nearby. Or, at least, we did until the high cost of living forced them to move back to the Central Valley. Fremont is where I first experienced the isolation of being one of the few Black folks in my city. But, it was, is, home."
+    },
+    {
+      "block": "leadtext",
+      "id": "fremont-income",
+      "text": "Expected income: My expected income by 35 became <strong>$49,000</strong>, a <strong>2.5x increase</strong> from Madera and a <strong>0.4x increase</strong> from Gardena."
+    }
+  ],
+  "blocks": [
+    {
+      "block": "text",
+      "text": "Madera, Gardena, Fremont. Three different cities. Three different financial outcomes for Black kids.\r\n\r\n\r\nThe desire to move somewhere else for opportunities is common. When my grandparents moved from the South to California in the 1940s, they were part of one of the largest migrations in American history."
+    },
+    {
+      "block": "subhead",
+      "text": "Parte II &nbsp&nbsp O Caos"
+    },
+    {
+      "block": "text",
+      "text": "The Great Migration is a story of holding the American Dream to its word. \r\n\r\n\r\nFrom 1910 to 1970, millions of Black folk across the American South would leave searching for new opportunities, hoping their futures would be brighter and not haunted by the oppressive regimes in their hometowns."
+    },
+    {
+      "block": "map",
+      "header": "The First Great Migration",
+      "text": "Percent change in Black population by city from 1910 to 1940",
+      "source": "<a href=https://www.census.gov/dataviz/visualizations/020/>U.S. Census</a>"
+    },
+   
+    {
+      "block": "triptych",
+      "text": "<strong>Top:</strong> My grandparents with my mother as a baby in Madera, Calif. circa 1960’s; <strong>Center:</strong> My grandparents with my teenage mother in Los Angeles in the ‘70s; <strong>Bottom:</strong> My mother holding me as a child in Gardena, Calif. in the early ‘90s."
+    }
+ 
+ 
+  ],
+  "labels": {
+    "share_black2010": "Share of Black kids in neighborhood",
+    "share_black_stayed": "Share of Black kids who stayed in neighborhood as adults",
+    "medhhinc_1990": "Median Household Income in 1990",
+    "medhhinc_2016": "Median Household Income in 2016"
+  },
+  "slides2": [
+    {
+      "block": "slide",
+      "id": "0",
+      "field": "gardena",
+      "key": "share_black2010",
+      "text": "According to <a href=https://www.opportunityatlas.org/>Opportunity Insights and U.S. Census data</a>, around 351 kids lived in my neighborhood in Gardena. It was about <span>evenly split between Black (48%) and Hispanic (43%)</span> kids."
+    },
+    {
+      "block": "slide",
+      "id": "0",
+      "field": "fremont",
+      "key": "share_black2010",
+      "text": "My Fremont neighborhood had roughly <span>1,200 kids. 4% (51) were Black</span>."
+    },
+    {
+      "block": "slide",
+      "id": "1",
+      "field": "gardena",
+      "key": "share_black_stayed",
+      "text": "In Gardena, <span>42% of Black kids stayed within the same census tract</span> they grew up in."
+    },
+    {
+      "block": "slide",
+      "id": "1",
+      "field": "fremont",
+      "key": "share_black_stayed",
+      "text": "<span>Less than 5% of Black kids</span> in Fremont stayed in the neighborhood I grew up in, among the lowest nationally."
+    },
+    {
+      "block": "slide",
+      "id": "2",
+      "field": "gardena",
+      "key": "medhhinc_1990",
+      "text": "Despite being in different regions of the state, my neighborhoods in Gardena and Fremont were quite similar in the 1990s."
+    },
+    {
+      "block": "slide",
+      "id": "2",
+      "field": "fremont",
+      "key": "medhhinc_1990",
+      "text": "Gardena and Fremont had median household incomes of <span>$81,000 and $84,000</span>, respectively. Both Census tracts were in the <span>top 16%</span> of the nation."
+    },
+    {
+      "block": "slide",
+      "id": "3",
+      "field": "gardena",
+      "key": "medhhinc_2016",
+      "text": "Since the 1990s, the median household income in my Gardena neighborhood <span>decreased by 50% to $40,000</span>."
+    },
+    {
+      "block": "slide",
+      "id": "3",
+      "field": "fremont",
+      "key": "medhhinc_2016",
+      "text": "Over the same period, the median household income in my Fremont neighborhood <span>increased by 42% to $120,000</span>. \r\n\r\n\r\nThe opportunities afforded me early in my life in Gardena have not continued decades later."
+    }
+  ],
+  "blocks2": [
+    {
+      "block": "subhead",
+      "text": "Parte III &nbsp&nbsp A solução"
+    },
+    {
+      "block": "text",
+      "text": "Who would I be had we stayed in Gardena? By some economic measures, I’d be worse off. But I don’t find it surprising that life brought me back to where I started.\r\n\r\n\r\nThe data above is only part of what makes someone’s life. These estimates offer interesting starting places for exploration but don’t tell the whole story.\r\n\r\n\r\n"
+    },
+    {
+      "block": "methodology",
+      "title": "Prefeito",
+      "text": "Eduardo Paes"
+    },
+    {
+      "block": "methodology",
+      "title": "Autores",
+      "text": "Caio Jacintho \n Judite Cypreste \n Vanessa Leme \n Pedro Meneghel \n Lucas Tavares"
+    },
+    {
+      "block": "methodology",
+      "title": "Agradecimentos",
+      "text": "Lucas Padilha \n João Carabetta \n Alberto Szafran"
+    }
+  ]
+}

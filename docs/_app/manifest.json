@@ -1,0 +1,55 @@
+{
+  ".svelte-kit/runtime/client/start.js": {
+    "file": "start-97589325.js",
+    "src": ".svelte-kit/runtime/client/start.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor-45c4e1cf.js"
+    ],
+    "dynamicImports": [
+      "src/routes/__layout.svelte",
+      ".svelte-kit/runtime/components/error.svelte",
+      "src/routes/index.svelte"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "pages/__layout.svelte-f8b9740b.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-45c4e1cf.js"
+    ],
+    "css": [
+      "assets/pages/__layout.svelte-860f61a8.css"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "error.svelte-f57e04b1.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-45c4e1cf.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "pages/index.svelte-1e0db6d4.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor-45c4e1cf.js"
+    ],
+    "css": [
+      "assets/pages/index.svelte-1656d06c.css"
+    ],
+    "assets": [
+      "assets/capa_prefeitura-9280498a.png",
+      "assets/logo_preto_horizontal-97a92af9.png"
+    ]
+  },
+  "_vendor-45c4e1cf.js": {
+    "file": "chunks/vendor-45c4e1cf.js"
+  }
+}
