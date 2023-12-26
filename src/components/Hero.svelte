@@ -78,7 +78,7 @@
     <!-- </div> -->
     <div class="overlays">
       <div class="intro-svg">
-        <img src="static/assets/img/2_mapa_cidade_sem_fundo.png" alt="Map of the United States"/>
+        <img src="assets/img/2_mapa_cidade_sem_fundo.png" alt="Map of the United States"/>
        </div>
    
     </div>
