@@ -29,15 +29,22 @@
     "madera-ggp":  {
       triggerStep: 1,
       endStep: 3,
-      position: "row-start-1 col-start-2 col-span-6",
-      positionMobile: "row-start-2 col-start-1 col-span-8",
+      position: "row-start-1 col-start-2 col-span-5",
+      positionMobile: "row-start-1 col-start-3 col-span-8",
       altText: "A black and white photo of the author's grandmother and grandfather posing for a picture together in front of an old car. The grandmother is wearing a dress, long coat, glasses, and a bonnet. The grandfather is wearing jeans with a long sleeve button up tucked in."
     },
     "madera-mom": {
       triggerStep: 2,
       endStep: 3,
       position:"row-start-2 col-start-6 col-span-6",
-      positionMobile: "row-start-3 col-start-3 col-span-8",
+      positionMobile: "row-start-4 col-start-6 col-span-8",
+      altText: "A black and white photo of the author's mother and grandmother sitting on a lawn with three small children."
+    },
+    "cimeira3": {
+      triggerStep: 2,
+      endStep: 3,
+      position:"row-start-4 col-start-8 col-span-4",
+      positionMobile: "row-start-3 col-start-1 col-span-8",
       altText: "A black and white photo of the author's mother and grandmother sitting on a lawn with three small children."
     },
     "gardena-mom-and-me": {

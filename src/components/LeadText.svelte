@@ -19,6 +19,10 @@
       position: "col-start-2 col-span-6",
       positionMobile: "col-start-1 col-span-12"
     },
+    "cimeira3": {
+      position: "col-start-4 col-span-4",
+      positionMobile: "col-start-2 col-span-8"
+    },
     "madera-farm": {
       position: "col-start-2 col-span-6",
       positionMobile: "col-start-1 col-span-12"
