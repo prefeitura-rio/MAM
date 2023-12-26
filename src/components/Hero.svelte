@@ -1,7 +1,5 @@
 <script>
   import Header from "$components/Header.svelte";
-  import ImageRaw from "./ImageRaw.svelte";
-  import usMap from "$svg/story/intro_map.svg";
   import { selectAll, select, easeLinear } from "d3";
   // import rough from 'roughjs';
   import Stains from "$components/Stains.svelte";
@@ -49,32 +47,6 @@
     });
   }
 
-  // function roughen(group, color, fill) {
-  //   select(group).each(function() {
-  //     let gParent = this;
-  //     select(group).selectAll('path').each(function() {
-  //       let roughPath = gParent.appendChild( rc.path(select(this).node().getAttribute('d'), {
-  //           stroke: color,
-  //           fillStyle: 'hachure',
-  //           strokeWidth: 0.55,
-  //           roughness: 0.75,
-  //         })
-  //       )
-  //     })
-  //     if (fill == 1) {
-  //       select(group).selectAll('#map_x5F_filled').each(function() {
-  //       let roughPath = gParent.appendChild( rc.path(select(this).node().getAttribute('d'), {
-  //           fill: color,
-  //           fillWeight: 4,
-  //           fillStyle: 'hachure',
-  //           roughness: 0,
-  //         })
-  //       )
-  //     })
-  //     }
-  //   })
-  // }
-
   async function run() {
     await popIn(largeUSPaths, "opacity", 1, 0, 0);
     await drawPaths(largeUSPaths);
@@ -105,25 +77,18 @@
     <Header />
     <!-- </div> -->
     <div class="overlays">
-      <div class="intro-svg">{@html usMap}</div>
-      <div class="intro-cutout">
-        <img
-          src="assets/img/aaron_cutout.png"
-          alt="the author as a toddler dressed up in a white shirt, black pants, a black bowtie, and yellow suspenders"
-        />
-      </div>
+      <div class="intro-svg">
+        <img src="static/assets/img/2_mapa_cidade_sem_fundo.png" alt="Map of the United States"/>
+       </div>
+   
     </div>
     {#if w < 700}
       <div class="hed">
-        <p class="hed-text">On Upward Mobility</p>
+        <p class="hed-text">Aterro Vivo, Museu Renovado</p>
         <div class="intro-block">
           <p class="intro-text">{copy.description}</p>
-          <p class="byline">
-            By <a href="https://pudding.cool" title={copy.byline}>{copy.byline}</a>
-          </p>
           <p class="byline sm">
-            With <a href="https://pudding.cool/author/jan-diehm/">Jan Diehm</a> and
-            <a href="https://pudding.cool/author/michelle-mcghee/">Michelle McGhee</a>
+            Desenvolvi por &nbsp&nbsp<a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
           </p>
         </div>
       </div>
@@ -131,12 +96,12 @@
       <div class="hed">
         <!-- <div><p class="hed-text">On</p></div> -->
         <div class="hed-block">
-          <p class="hed-text"><span bind:clientWidth={introBlockW}>A Orla do Rio volta para o Rio</span></p>
+          <p class="hed-text"><span bind:clientWidth={introBlockW}>Aterro Vivo, Museu Renovado</span></p>
           <div class="intro-block">
             <p class="intro-text" style="max-width: {introBlockW}px">{copy.description}</p>
             
             <p class="mb-1 byline sm">
-              Por &nbsp&nbsp<a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
+              Desenvolvidor por &nbsp&nbsp<a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
             </p>
             
           </div>
@@ -152,6 +117,14 @@
 </div>
 
 <style>
+  .intro-svg img {
+ margin-top:5rem;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%; 
+}
+
   .intro-wrapper {
     position: relative;
     z-index: 999;
@@ -166,7 +139,7 @@
   .intro-svg,
   .intro-cutout {
     width: 100%;
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
   }
@@ -197,6 +170,7 @@
     font-size: 4rem !important;
     padding: 0;
     line-height: 1;
+    margin-top:-50px 
   }
 
   .hed-text span {

@@ -1,24 +1,24 @@
 {
   "title": "MAM",
-  "description": "Neste especial, você será convidado para uma viagem na história de uma das maiores obras da arquitetura carioca, o Museu de Arte Moderna do Rio de Janeiro.",
+  "description": "O Projeto de Transformação do Aterro do Flamengo e do Museu de Arte Moderna.",
   "byline": "Aaron Williams",
   "bylineUrl": "https://pudding.cool/author/aaron-williams",
   "url": "https://pudding.cool",
   "keywords": "story",
   "intro": [  {
     "block": "subhead",
-    "text": "Parte I &nbsp&nbsp A História"
+    "text": "A História"
   },
     {
       "block": "text",
-      "text": "“I don’t think you’d be the same person had we stayed in L.A.,” my mom told me recently. “I wanted you to have better opportunities.”\r\n\r\n\r\nAbout a year ago, I moved back to my birthplace, Los Angeles. The move came after six years on the east coast and a desire to be closer to my family.\r\n\r\n\r\nIt’s weird coming back to a place so familiar yet foreign. Despite being born in L.A., and raised just south of the city, I moved to the San Francisco Bay Area when I was 7, rendering Los Angeles a relic of my childhood, a menagerie of foggy memories.\r\n\r\n\r\n"
+      "text": "“Neste especial, você será convidado para uma viagem na história de uma das maiores obras da arquitetura carioca, o Museu de Arte Moderna do Rio de Janeiro."
     }
     
   ],
   "outcomes": [
     {
       "block": "leadtext",
-      "subhead": "Text1",
+   
       "id": "madera-ggp",
       "text": "O Museu de Arte Moderna do Rio de Janeiro é uma instituição referência para a arte e para a cultura do país. Fundado em 1948, possui uma das mais relevantes coleções de arte moderna e contemporânea da América Latina, com mais de 16 mil obras. Situado no Parque do Flamengo, foi projetado por Affonso Eduardo Reidy e desempenha um papel fundamental no desenvolvimento do Rio de Janeiro."
     },
@@ -34,7 +34,7 @@
     },
     {
       "block": "leadtext",
-      "subhead": "Text 2",
+    
       "id": "gardena-mom-and-me",
       "text": "In the 1960s, my grandparents moved to East Gardena, Calif. (a.k.a. West Rancho Dominguez or West Compton), about 15 miles south of downtown L.A. Most of my family is from here, and it’s where I was born."
     },
@@ -50,7 +50,7 @@
     },
     {
       "block": "leadtext",
-      "subhead": "Text 3",
+   
       "id": "fremont",
       "text": "In 1996, my mother took a leap of faith. Her job was closing their L.A. office, and they offered her two options: accept a layoff or relocate near the new hub in San Francisco. Tired of her life in L.A. and wanting to raise me in a better neighborhood, she moved us 373 miles north to the Bay Area suburb of Fremont, Calif."
     },
@@ -72,7 +72,7 @@
     },
     {
       "block": "subhead",
-      "text": "Parte II &nbsp&nbsp O Caos"
+      "text": "O Caos"
     },
     {
       "block": "text",
@@ -159,7 +159,7 @@
   "blocks2": [
     {
       "block": "subhead",
-      "text": "Parte III &nbsp&nbsp A solução"
+      "text": "A solução"
     },
     {
       "block": "text",
@@ -167,7 +167,7 @@
     },
     {
       "block": "methodology",
-      "title": "Prefeito",
+      "title": "<br><br><br><br><br><div style='border-top: 1px solid var(--color-off-black); padding-top:1rem'></div> Prefeito",
       "text": "Eduardo Paes"
     },
     {

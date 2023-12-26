@@ -22,8 +22,8 @@
 
 <style>
   #methodology {
-    margin: 3rem 0 8rem 0;
-    border-top: 1px solid var(--color-off-black);
+    margin: 3rem 0 1rem 0;
+    /* border-top: 1px solid var(--color-off-black); */
     padding: 1rem 0 0 0;
   }
 
