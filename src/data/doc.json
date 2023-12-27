@@ -29,11 +29,6 @@
     },
     {
       "block": "leadtext",
-      "id": "madera-mom",
-      "text": ""
-    },
-    {
-      "block": "leadtext",
     
       "id": "gardena-mom-and-me",
       "text": "No dia 8 de julho de 1978, um incêndio que começou na sala de som do museu destruiu mais da metade de todo o acervo, composto por artistas de renome como Pablo Picasso, Salvador Dalí, Cândido Portinari e Di Cavalcanti. Parte da história artística brasileira e mundial virou cinzas, numa perda com danos incalculáveis."
@@ -43,11 +38,7 @@
       "id": "gardena-air",
       "text": "Pouca coisa restou, entre elas a estrutura do prédio modernista como conhecemos hoje. As causas do incêndio nunca foram esclarecidas. À época, jornais apontaram como hipótese provável um curto-circuito causado por instalações elétricas defeituosas. O museu só foi reaberto três anos depois, em 1981."
     },
-    {
-      "block": "leadtext",
-      "id": "gardena-preschool",
-      "text": ""
-    },
+    
     {
       "block": "leadtext",
    
@@ -56,13 +47,20 @@
     },
     {
       "block": "leadtext",
-      "id": "fremont-2",
+      "id": "2acervo",
       "text": "Com uma generosa doação de mais de 5 mil obras do acervo pessoal do diplomata e filho de Assis Chateaubriand, Gilberto Chateaubriand, o museu renasceu, apresentando uma coleção que inclui obras de artistas renomados como Auguste Rodin, Cândido Portinari e Anita Mafaldi."
+    },
+    
+    {
+      "block": "leadtext",
+   
+      "id": "cimeira1",
+      "text": "Como palco de significativos eventos, a cidade do Rio de Janeiro desempenhou um papel de epicentro em acontecimentos globais nos últimos séculos. Um destes grandes acontecimentos aconteceu no MAM, que sediou, nos dias 28 e 29 de junho de 1999, a primeira cúpula entre América Latina, Caribe e União Europeia. No interior do museu, 15 chefes de Estado e representantes de 48 países estabeleceram uma Parceria Estratégica Birregional, que perdura até hoje."
     },
     {
       "block": "leadtext",
-      "id": "fremont-income",
-      "text": ""
+      "id": "cimeira2",
+      "text": "Dentre os 69 pontos abordados na declaração final, destacam-se temas como comércio e integração regional, democracia e direitos humanos, combate à pobreza e promoção social, além de questões cruciais como mudanças climáticas e desenvolvimento sustentável. A reunião foi emblemática por marcar o início das negociações entre o Mercosul e a União Europeia, destacando os países latino-americanos como um bloco com identidade e interesses próprios e aﬁrmando a vocação brasileira para um relacionamento multilateral em termos políticos, culturais e econômicos."
     }
   ],
   "blocks": [
@@ -148,7 +146,7 @@
   "blocks2": [
     {
       "block": "subhead",
-      "text": "O problema"
+      "text": "<br><br>O problema"
     },
     {
       "block": "text",

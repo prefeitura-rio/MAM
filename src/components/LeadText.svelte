@@ -23,6 +23,18 @@
       position: "col-start-4 col-span-4",
       positionMobile: "col-start-2 col-span-8"
     },
+    "cimeira1": {
+      position: "col-start-7 col-span-6",
+      positionMobile: "col-start-1 col-span-12"
+    },
+    "cimeira2": {
+      position: "col-start-7 col-span-6",
+      positionMobile: "col-start-1 col-span-12"
+    },
+    "cimeira33": {
+      position: "col-start-7 col-span-6",
+      positionMobile: "col-start-1 col-span-12"
+    },
     "madera-farm": {
       position: "col-start-2 col-span-6",
       positionMobile: "col-start-1 col-span-12"
@@ -43,9 +55,17 @@
       position: "col-start-6 col-span-6",
       positionMobile: "col-start-1 col-span-12"
     },
-    fremont: {
+    "fremont": {
       position: "col-start-2 col-span-5",
       positionMobile: "col-start-1 col-span-12"
+    },
+    "2acervo": {
+      position: "col-start-2 col-span-5",
+      positionMobile: "col-start-1 col-span-12"
+    },
+    "3acervo": {
+      position: "col-start-2 col-span-5",
+      positionMobile: "col-start-1 col-span-5"
     },
     "fremont-2": {
       position: "col-start-2 col-span-5",
