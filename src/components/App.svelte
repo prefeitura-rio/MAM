@@ -14,6 +14,9 @@
   import LeadText from "$components/LeadText.svelte";
   import Stains from "$components/Stains.svelte";
   import ScrollyContainer from "$components/upward-mobility/ScrollyContainer.svelte";
+    import Problema from "./Solucao.svelte";
+    import Deterioracao from "./Deterioracao.svelte";
+    import Solucao from "./Solucao.svelte";
 
   const blocks = {
     text: Text,
@@ -22,6 +25,9 @@
     map: Map,
     hero: Hero,
     triptych: Triptych,
+    problema: Problema,
+    solucao: Solucao,
+    deterioracao: Deterioracao,
     slide: Slide,
     methodology: Methodology,
     leadtext: LeadText
@@ -81,25 +87,121 @@
           className={`h-screen ${introScrollValue === i ? "active" : ""}`}
           {...slide}
         />
-        <!-- <div class="step" class:active={introScrollValue === i}> -->
-        <!-- <svelte:component
-              this={blocks[slide.block] ?? Text}
-              id={slide.id ?? `slide-${i}`}
-              {...slide}
-            /> -->
-        <!-- </div> -->
+     
       {/each}
-      <!-- </div> -->
     </Scrolly>
-    <!-- <div class="spacer" /> -->
   </section>
-  <!-- text before mobility chart -->
  <!--  ############################ here i jumped to here -->
   <!-- Radial bar chart -->
   <section class="relative-custom">
     <ScrollyContainer />
   </section>
   <!-- conclusion text -->
+
+  <section class="intro-section" bind:clientHeight={introH}>
+    <div class="text-wrapper">
+      {#each copy.problema as props, i}
+        <svelte:component
+          this={blocks[props.block] ?? Text}
+          id={props.id ?? `graf-${i}`}
+          {...props}
+        />
+      {/each}
+    </div>
+    {#if introH != undefined}
+      <Stains height={introH} />
+    {/if}
+  </section>
+   
+  <section id="text" class="px-4" bind:clientHeight={preMapH}>
+    <div class="text-wrapper">
+      {#each copy.blocks_problema as props, i}
+        <svelte:component
+          this={blocks[props.block] ?? Text}
+          id={props.id ?? `graf-${i}`}
+          {...props}
+        />
+      {/each}
+    </div>
+    {#if preMapH != undefined}
+      <Stains height={preMapH} />
+    {/if}
+
+  </section>
+
+  <section style="margin-top:-20px" class="intro-section" bind:clientHeight={introH}>
+    <div class="text-wrapper">
+      {#each copy.deterioracao as props, i}
+        <svelte:component
+          this={blocks[props.block] ?? Text}
+          id={props.id ?? `graf-${i}`}
+          {...props}
+        />
+      {/each}
+    </div>
+    {#if introH != undefined}
+      <Stains height={introH} />
+    {/if}
+  </section>
+  <section id="text" class="px-4" bind:clientHeight={preMapH}>
+    <div class="text-wrapper">
+      {#each copy.blocks_deterioracao as props, i}
+        <svelte:component
+          this={blocks[props.block] ?? Text}
+          id={props.id ?? `graf-${i}`}
+          {...props}
+        />
+      {/each}
+    </div>
+    {#if preMapH != undefined}
+      <Stains height={preMapH} />
+    {/if}
+  </section>
+
+  <section style="margin-top:-20px" class="intro-section" bind:clientHeight={introH}>
+    <div class="text-wrapper">
+      {#each copy.solucao as props, i}
+        <svelte:component
+          this={blocks[props.block] ?? Text}
+          id={props.id ?? `graf-${i}`}
+          {...props}
+        />
+      {/each}
+    </div>
+    {#if introH != undefined}
+      <Stains height={introH} />
+    {/if}
+  </section>
+  <section id="text" class="px-4" bind:clientHeight={preMapH}>
+    <div class="text-wrapper">
+      {#each copy.blocks_solucao as props, i}
+        <svelte:component
+          this={blocks[props.block] ?? Text}
+          id={props.id ?? `graf-${i}`}
+          {...props}
+        />
+      {/each}
+    </div>
+    {#if preMapH != undefined}
+      <Stains height={preMapH} />
+    {/if}
+  </section>
+
+  <section style="margin-top:-20px" class="intro-section" bind:clientHeight={introH}>
+    <div class="text-wrapper">
+      {#each copy.solucao_continuacao as props, i}
+        <svelte:component
+          this={blocks[props.block] ?? Text}
+          id={props.id ?? `graf-${i}`}
+          {...props}
+        />
+      {/each}
+    </div>
+    {#if introH != undefined}
+      <Stains height={introH} />
+    {/if}
+  </section>
+  
   <section id="text-2" class="px-4" bind:clientHeight={outroH}>
     <div class="text-wrapper">
       {#each copy.blocks2 as props, i}
@@ -133,7 +235,6 @@
   }
 
   .intro-section {
-    justify-content: left !important;
     margin-top: 4rem;
     padding: 0 1rem;
   }

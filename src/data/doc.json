@@ -15,6 +15,41 @@
     }
     
   ],
+  "problema": [  {
+    "block": "subhead",
+    "text": "<br><br>O problema"
+  },
+    {
+      "block": "text",
+      "text": "Apesar de ter sido palco de um dos eventos mais importantes do mundo, o museu persiste em sua batalha pela preservação de sua antiga grandeza. Gestões ineficientes do edifício e do seu entorno resultaram na condição de abandono atual do MAM. Em contraste com seu passado glorioso, o museu luta para manter sua relevância e beleza. \r\n\r\n\r\n A orla, uma das mais belas obras de arte naturais do Rio de Janeiro, agora encontra-se escondida por edificações de iniciativas privadas.  Este cenário, além de afetar a estética da região, contribui para que turistas e cariocas que chegam à cidade pelo aeroporto Santos Dumont se deparem com empreendimentos abandonados. \r\n\r\n\r\n Atualmente, sete estabelecimentos compartilham espaço na mesma região, com alguns deles em situação de abandono, exibindo marcas de pichações e vandalismo. São eles: Clube Náutico Santa Luzia, Clube Náutico Internacional, Clube Náutico Boqueirão, Posto BR, Club de Regatas Vasco da Gama, Localiza e um terreno pertencente a Marinha Brasileira."
+    }
+    
+  ],
+  "solucao": [  {
+    "block": "subhead",
+    "text": "A solução"
+  },
+    {
+      "block": "text",
+      "text": "O projeto de revitalização do MAM e seu entorno surge como a solução para estes desafios. Por meio da implementação de medidas que visam restaurar e recuperar as estruturas originais, bem como criar um ambiente mais fluido e integrado entre a cidade, a natureza e as pessoas, a iniciativa busca restabelecer a antiga glória experimentada por este espaço e vivida pelo Rio de Janeiro. \r\n\r\n\r\n O projeto “Orla Burle Marx” engloba uma série de intervenções que abrangem aproximadamente 50.000 m². Entre as principais melhorias planejadas, esta a recuperação e restauração dos jardins do Museu, com a reposição e inserção de espécies perdidas ao longo do tempo, além da remoção de espécies em desacordo com as especificações do projeto original de Roberto Burle Marx ou que estejam debilitadas. \r\n\r\n\r\n Além disso, o projeto prevê a valorização e preservação das esculturas existentes no entorno, integrando-as ao novo design. Também será dedicado espaço para exposições permanentes e temporárias, proporcionando um ambiente cultural dinâmico. A instalação de painéis dupla face em concreto destina-se à exposição de réplicas de trabalhos de Burle Marx, enriquecendo a experiência visual do local."
+    }
+    
+  ],
+  "solucao_continuacao": [  
+ 
+    {
+      "block": "text",
+      "text": "Essas intervenções visam não apenas revitalizar a área, mas também preservar e destacar a obra de Roberto Burle Marx, integrando-a de maneira harmônica ao projeto original. \r\n\r\n\r\n Um dos aspectos-chave do projeto envolve a demolição dos quatro clubes privados, assim como a remoção da Localiza e do Posto BR. Essa área, juntamente com a parcela pertencente à Marinha, será um novo cartão postal da cidade, proporcionando uma paisagem deslumbrante da orla carioca para todos que chegam ao Rio via Aeroporto Santos Dumont. \r\n\r\n\r\n Para fortalecer a integração das pessoas à cidade, a Rua Jardel Jércolis será transformada em um boulevard exclusivo para pedestres, com a adição de uma ciclovia. O projeto também inclui obras na Avenida Almirante Silvio de Noronha, que será exclusiva para acesso ao Aeroporto e ao Terminal Náutico. O alargamento da rua Almirante Silvio de Noronha está previsto para facilitar o acesso ao Santos Dumont. Adicionalmente, está planejado um acesso único entre o Aterro do Flamengo, o MAM e o VivoRio. \r\n\r\n\r\n Com um investimento estimado em R$ 29 milhões, este projeto representa um passo significativo para transformar a região do MAM e seu entorno. Ao revitalizar os espaços, restaurar estruturas históricas, e promover a integração entre natureza e cidade, a iniciativa da Prefeitura do Rio não apenas resgata a essência cultural e histórica do local, mas também cria um ambiente mais convidativo e dinâmico para os cariocas e turistas. \r\n\r\n\r\n Essas transformações não apenas se destacarão como uma contribuição significativa para a qualidade de vida dos cariocas, mas também preparam a cidade para receber eventos de grande porte, como o G20. A infraestrutura aprimorada, a valorização do patrimônio cultural e a atenção ao paisagismo consolidarão o Rio de Janeiro como um anfitrião acolhedor para visitantes globais durante o G20. Esse legado perdurará além do evento, beneficiando a comunidade local e deixando uma marca positiva para o país. "
+    }
+    
+  ],
+  "deterioracao": [
+    {
+      "block": "text",
+      "text": "Atualmente, seu entorno sofre um desgaste espacial e temporal que a Prefeitura do Rio se dedica a combater com manutenção frequente do local. Verificam-se sinais de degradação, principalmente no rico legado de Burle Marx, como no calçamento, nos espelhos d’água, e a ocupação de pessoas em situação de rua em determinados pontos. \r\n\r\n\r\n Atualmente, o entorno do museu enfrenta desgaste tanto espacial quanto temporal, demandando a atenção contínua da Prefeitura do Rio, que tenta minimizar anos de abandono, realizando manutenções periódicas na região. Mesmo com este trabalho, sinais de desgaste são visíveis no Jardim de Burle Marx, no prédio do museu, nas calçadas e espelhos d'água. \r\n\r\n\r\n Além disso, a insegurança tornou-se uma preocupação constante na área, comprometendo a experiência dos visitantes e atraindo desafios significativos para a manutenção da reputação do MAM como um destino cultural."
+    }
+    
+  ],
   "outcomes": [
     {
       "block": "leadtext",
@@ -78,6 +113,24 @@
     }
  
  
+  ],
+  "blocks_problema": [
+    {
+      "block": "problema",
+      "text": "<strong>Primeira </strong>Trator preparando o terreno para a construção do conjunto arquitetônico do MAM. 1954 <strong>Segunda </strong> Concretagem da estrutura <strong>Terceira </strong> Concretagem da estrutura"
+    }
+  ],
+  "blocks_deterioracao": [
+    {
+      "block": "deterioracao",
+      "text": "<strong>Primeira </strong>Trator preparando o terreno para a construção do conjunto arquitetônico do MAM. 1954 <strong>Segunda </strong> Concretagem da estrutura <strong>Terceira </strong> Concretagem da estrutura"
+    }
+  ],
+  "blocks_solucao": [
+    {
+      "block": "deterioracao",
+      "text": "<strong>Primeira </strong>Foto 1 Pedro <strong>Segunda </strong> Foto 2 Pedro <strong>Terceira </strong> Foto 3 Pedro"
+    }
   ],
   "labels": {
     "share_black2010": "Share of Black kids in neighborhood",
@@ -144,14 +197,7 @@
     }
   ],
   "blocks2": [
-    {
-      "block": "subhead",
-      "text": "<br><br>O problema"
-    },
-    {
-      "block": "text",
-      "text": "Who would I be had we stayed in Gardena? By some economic measures, I’d be worse off. But I don’t find it surprising that life brought me back to where I started.\r\n\r\n\r\nThe data above is only part of what makes someone’s life. These estimates offer interesting starting places for exploration but don’t tell the whole story.\r\n\r\n\r\n"
-    },
+ 
     {
       "block": "methodology",
       "title": "<br><br><br><br><br><div style='border-top: 1px solid var(--color-off-black); padding-top:1rem'></div> Prefeito",
