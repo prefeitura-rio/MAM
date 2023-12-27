@@ -14,9 +14,10 @@
   import LeadText from "$components/LeadText.svelte";
   import Stains from "$components/Stains.svelte";
   import ScrollyContainer from "$components/upward-mobility/ScrollyContainer.svelte";
-    import Problema from "./Solucao.svelte";
+    import Problema from "./Problema.svelte";
     import Deterioracao from "./Deterioracao.svelte";
     import Solucao from "./Solucao.svelte";
+    import SolucaoPhoto from "./SolucaoPhoto.svelte";
 
   const blocks = {
     text: Text,
@@ -27,6 +28,7 @@
     triptych: Triptych,
     problema: Problema,
     solucao: Solucao,
+    solucaoPhoto: SolucaoPhoto,
     deterioracao: Deterioracao,
     slide: Slide,
     methodology: Methodology,

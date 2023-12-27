@@ -27,7 +27,7 @@
   ],
   "solucao": [  {
     "block": "subhead",
-    "text": "A solução"
+    "text": "A solução <div style=' margin-top:5rem;display: block;margin-left: auto;margin-right: auto;width: 100%;'><img src='assets/img/solucao_photo.jpg'/></div>"
   },
     {
       "block": "text",
@@ -90,7 +90,7 @@
       "block": "leadtext",
    
       "id": "cimeira1",
-      "text": "Como palco de significativos eventos, a cidade do Rio de Janeiro desempenhou um papel de epicentro em acontecimentos globais nos últimos séculos. Um destes grandes acontecimentos aconteceu no MAM, que sediou, nos dias 28 e 29 de junho de 1999, a primeira cúpula entre América Latina, Caribe e União Europeia. No interior do museu, 15 chefes de Estado e representantes de 48 países estabeleceram uma Parceria Estratégica Birregional, que perdura até hoje."
+      "text": "Como palco de significativos eventos, a cidade do Rio de Janeiro desempenhou <a href='https://prefeitura-rio.github.io/G20Dataviz/' target=_blank'>um papel de epicentro em acontecimentos globais nos últimos séculos.</a> Um destes grandes acontecimentos aconteceu no MAM, que sediou, nos dias 28 e 29 de junho de 1999, a primeira cúpula entre América Latina, Caribe e União Europeia. No interior do museu, 15 chefes de Estado e representantes de 48 países estabeleceram uma Parceria Estratégica Birregional, que perdura até hoje."
     },
     {
       "block": "leadtext",
@@ -128,8 +128,14 @@
   ],
   "blocks_solucao": [
     {
-      "block": "deterioracao",
-      "text": "<strong>Primeira </strong>Foto 1 Pedro <strong>Segunda </strong> Foto 2 Pedro <strong>Terceira </strong> Foto 3 Pedro"
+      "block": "solucao",
+      "text": "<strong>Primeiraa </strong>Foto 1 Pedro <strong>Segunda </strong> Foto 2 Pedro <strong>Terceira </strong> Foto 3 Pedro"
+    }
+  ],
+  "blocks_solucao_photo": [
+    {
+      "block": "solucaoPhoto",
+      "text": ""
     }
   ],
   "labels": {

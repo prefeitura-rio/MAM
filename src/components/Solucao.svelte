@@ -29,13 +29,13 @@
     on:enter={() => showPhotos()}>
     <div class="relative z-0 flex flex-col justify-between w-full max-w-5xl mx-auto my-0">
       <div class="border-2 border-black" id="madera-triptych">
-        <ImageRaw src="assets/img/entorno1.jpg" />
+        <ImageRaw src="assets/img/solucao_mam.jpg" />
       </div>
       <div class="border-2 border-black" id="gardena1-triptych">
-        <ImageRaw src="assets/img/entorno2.jpg" />
+        <ImageRaw src="assets/img/solucao_mam2.jpg" />
       </div>
       <div class="border-2 border-black" id="gardena2-triptych">
-        <ImageRaw src="assets/img/gardena2.jpg" />
+        <ImageRaw src="assets/img/solucao_mam3.jpg" />
       </div>
     </div>
     <Block>
