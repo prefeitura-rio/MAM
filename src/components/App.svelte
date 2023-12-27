@@ -54,6 +54,21 @@
       <Stains height={introH} />
     {/if}
   </section>
+   <!--  ############################ !jumped to here -->
+  <section id="text" class="px-4" bind:clientHeight={preMapH}>
+    <div class="text-wrapper">
+      {#each copy.blocks as props, i}
+        <svelte:component
+          this={blocks[props.block] ?? Text}
+          id={props.id ?? `graf-${i}`}
+          {...props}
+        />
+      {/each}
+    </div>
+    {#if preMapH != undefined}
+      <Stains height={preMapH} />
+    {/if}
+  </section>
   <!-- scrolly -->
   <section class="relative-custom">
     <LeadImageContainer stepIndex={introScrollValue} />
@@ -79,20 +94,7 @@
     <!-- <div class="spacer" /> -->
   </section>
   <!-- text before mobility chart -->
-  <section id="text" class="px-4" bind:clientHeight={preMapH}>
-    <div class="text-wrapper">
-      {#each copy.blocks as props, i}
-        <svelte:component
-          this={blocks[props.block] ?? Text}
-          id={props.id ?? `graf-${i}`}
-          {...props}
-        />
-      {/each}
-    </div>
-    {#if preMapH != undefined}
-      <Stains height={preMapH} />
-    {/if}
-  </section>
+ <!--  ############################ here i jumped to here -->
   <!-- Radial bar chart -->
   <section class="relative-custom">
     <ScrollyContainer />
@@ -120,6 +122,7 @@
   } */
 
   .text-wrapper {
+    padding-top:5rem;
     position: relative;
     z-index: 999;
   }
@@ -130,6 +133,7 @@
   }
 
   .intro-section {
+    justify-content: left !important;
     margin-top: 4rem;
     padding: 0 1rem;
   }

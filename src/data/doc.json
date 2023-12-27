@@ -1,6 +1,6 @@
 {
   "title": "MAM",
-  "description": "O Projeto de Transformação do Aterro do Flamengo e do Museu de Arte Moderna.",
+  "description": "Neste especial, você será convidado para uma viagem na história de uma das maiores obras da arquitetura carioca, o Museu de Arte Moderna do Rio de Janeiro.",
   "byline": "Aaron Williams",
   "bylineUrl": "https://pudding.cool/author/aaron-williams",
   "url": "https://pudding.cool",
@@ -11,7 +11,7 @@
   },
     {
       "block": "text",
-      "text": "“Neste especial, você será convidado para uma viagem na história de uma das maiores obras da arquitetura carioca, o Museu de Arte Moderna do Rio de Janeiro."
+      "text": "Fundado em 1948, o Museu de Arte Moderna do Rio de Janeiro (MAM) destaca-se como uma influente instituição cultural e artística no Brasil. Localizado no Parque do Flamengo e projetado por Affonso Eduardo Reidy, arquiteto carioca nascido em Paris, o museu abriga uma coleção notável com mais de 16 mil obras de arte moderna e contemporânea, desempenhando um papel crucial no desenvolvimento do Rio de Janeiro. \r\n\r\n\r\n Sua obra foi comandada pela engenheira, urbanista e militante feminista Carmen Portinho. Única mulher entre mais de 450 trabalhadores, comandou todas as decisões referentes à construção. Reconhecido como um marco da arquitetura moderna global, o conceito por trás da construção visa criar um “espaço fluente”, preservando a harmonia entre as pessoas e a paisagem circundante.  \r\n\r\n\r\n Situado estrategicamente no Parque do Flamengo, o MAM encontra-se próximo ao Aeroporto Santos Dumont (850 metros), ao Monumento Nacional aos Mortos da Segunda Guerra Mundial e a uma curta distância do centro histórico da cidade. Da sua localização, é possível avistar pontos emblemáticos como o Pão de Açúcar, a igreja histórica do Outeiro da Glória, o Corcovado e a Baía de Guanabara."
     }
     
   ],
@@ -20,64 +20,53 @@
       "block": "leadtext",
    
       "id": "madera-ggp",
-      "text": "O Museu de Arte Moderna do Rio de Janeiro é uma instituição referência para a arte e para a cultura do país. Fundado em 1948, possui uma das mais relevantes coleções de arte moderna e contemporânea da América Latina, com mais de 16 mil obras. Situado no Parque do Flamengo, foi projetado por Affonso Eduardo Reidy e desempenha um papel fundamental no desenvolvimento do Rio de Janeiro."
+      "text": "Os jardins do MAM Rio, concebidos por Roberto Burle Marx, considerado o pioneiro do paisagismo moderno, são um local frequente para o lazer carioca. Circundando o museu, esses jardins harmonizam grandes gramados, linhas geométricas, espelhos d’água, canteiros de pedras e uma diversidade de espécies. Integrados ao conjunto arquitetônico do MAM, esses jardins fazem parte do Parque do Flamengo, reconhecido e tombado pelo Instituto do Patrimônio Histórico e Artístico Nacional por seu valor paisagístico e arquitetônico."
     },
     {
       "block": "leadtext",
       "id": "madera-farm",
-      "text": "No dia 8 de julho de 1978, um incêndio que começou na sala de som do museu destruiu mais da metade de todo o acervo, composto por artistas de renome como Pablo Picasso, Salvador Dalí, Cândido Portinari e Di Cavalcanti. Parte da História artística brasileira e mundial virou cinza, numa perna com danos incalculáveis. Pouca coisa restou, entre elas a estrutura do prédio modernista como conhecemos hoje. As causas do incêndio nunca foram esclarecidas. À época, jornais apontaram como hipótese mais provável um curto-circuito causado por instalações elétricas defeituosas. O museu só foi reaberto três anos depois, em 1981."
+      "text": "Destacando-se com 48 palmeiras-imperiais, a primeira plantada pelo então presidente Juscelino Kubitschek, além de plantas nativas da Caatinga, como as bromélias do nordeste, e da Amazônia, como as vitórias-régias, os jardins valorizam a vegetação brasileira. Em uma extensa área de gramados, Burle Marx planejou o contraste entre dois tipos de gramíneas, formando o padrão ondulado que também caracteriza o calçadão de Copacabana, outro projeto emblemático do paisagista."
     },
     {
       "block": "leadtext",
       "id": "madera-mom",
-      "text": "Entre os dias 28 e 29 de junho de 1999, o Rio sediou a primeira reunião de cúpula da América Latina, Caribe e União Europeia. Foi entre os muros do Museu de Arte Moderna que 15 chefes de Estado e representantes de 48 países instituíram uma Parceria Estratégica Birregional, em vigor até os dias atuais. \n\n\nEntre os 69 pontos presentes na declaração final, destacam-se temas tais como comércio e integração regional, democracia e direitos humanos, combate à pobreza e promoção social, mudanças climáticas e desenvolvimento sustentável."
+      "text": ""
     },
     {
       "block": "leadtext",
     
       "id": "gardena-mom-and-me",
-      "text": "In the 1960s, my grandparents moved to East Gardena, Calif. (a.k.a. West Rancho Dominguez or West Compton), about 15 miles south of downtown L.A. Most of my family is from here, and it’s where I was born."
+      "text": "No dia 8 de julho de 1978, um incêndio que começou na sala de som do museu destruiu mais da metade de todo o acervo, composto por artistas de renome como Pablo Picasso, Salvador Dalí, Cândido Portinari e Di Cavalcanti. Parte da história artística brasileira e mundial virou cinzas, numa perda com danos incalculáveis."
     },
     {
       "block": "leadtext",
       "id": "gardena-air",
-      "text": "Growing up, I knew two things to be true: almost everyone looked like me, and it was hard to breathe. My proximity to lousy air quality made breathing a chore, and my asthma didn’t help either. Hospital visits were typical back then. But it was home."
+      "text": "Pouca coisa restou, entre elas a estrutura do prédio modernista como conhecemos hoje. As causas do incêndio nunca foram esclarecidas. À época, jornais apontaram como hipótese provável um curto-circuito causado por instalações elétricas defeituosas. O museu só foi reaberto três anos depois, em 1981."
     },
     {
       "block": "leadtext",
       "id": "gardena-preschool",
-      "text": "Assuming no changes in parental wealth, my expected income would be <strong>$38,000</strong>, <strong>2x</strong> the predicted income from Madera."
+      "text": ""
     },
     {
       "block": "leadtext",
    
       "id": "fremont",
-      "text": "In 1996, my mother took a leap of faith. Her job was closing their L.A. office, and they offered her two options: accept a layoff or relocate near the new hub in San Francisco. Tired of her life in L.A. and wanting to raise me in a better neighborhood, she moved us 373 miles north to the Bay Area suburb of Fremont, Calif."
+      "text": "Alguns anos mais tarde, surgiram problemas na estrutura do prédio, como goteiras e falta de segurança para o acervo, levando à suspensão das atividades do espaço. Somente em 1993, o MAM conseguiu superar essas dificuldades."
     },
     {
       "block": "leadtext",
       "id": "fremont-2",
-      "text": "The city is on the east end of the Dumbarton Bridge, which connects Fremont to Menlo Park, Calif., making it an ideal location because we had family nearby. Or, at least, we did until the high cost of living forced them to move back to the Central Valley. Fremont is where I first experienced the isolation of being one of the few Black folks in my city. But, it was, is, home."
+      "text": "Com uma generosa doação de mais de 5 mil obras do acervo pessoal do diplomata e filho de Assis Chateaubriand, Gilberto Chateaubriand, o museu renasceu, apresentando uma coleção que inclui obras de artistas renomados como Auguste Rodin, Cândido Portinari e Anita Mafaldi."
     },
     {
       "block": "leadtext",
       "id": "fremont-income",
-      "text": "Expected income: My expected income by 35 became <strong>$49,000</strong>, a <strong>2.5x increase</strong> from Madera and a <strong>0.4x increase</strong> from Gardena."
+      "text": ""
     }
   ],
   "blocks": [
-    {
-      "block": "text",
-      "text": "Madera, Gardena, Fremont. Three different cities. Three different financial outcomes for Black kids.\r\n\r\n\r\nThe desire to move somewhere else for opportunities is common. When my grandparents moved from the South to California in the 1940s, they were part of one of the largest migrations in American history."
-    },
-    {
-      "block": "subhead",
-      "text": "O Caos"
-    },
-    {
-      "block": "text",
-      "text": "The Great Migration is a story of holding the American Dream to its word. \r\n\r\n\r\nFrom 1910 to 1970, millions of Black folk across the American South would leave searching for new opportunities, hoping their futures would be brighter and not haunted by the oppressive regimes in their hometowns."
-    },
+    
     {
       "block": "map",
       "header": "The First Great Migration",
@@ -87,7 +76,7 @@
    
     {
       "block": "triptych",
-      "text": "<strong>Top:</strong> My grandparents with my mother as a baby in Madera, Calif. circa 1960’s; <strong>Center:</strong> My grandparents with my teenage mother in Los Angeles in the ‘70s; <strong>Bottom:</strong> My mother holding me as a child in Gardena, Calif. in the early ‘90s."
+      "text": "<div style='padding-top:2rem'></div><strong>Primeira </strong>Trator preparando o terreno para a construção do conjunto arquitetônico do MAM. 1954 <strong>Segunda </strong> Concretagem da estrutura <strong>Terceira </strong> Concretagem da estrutura"
     }
  
  
@@ -159,7 +148,7 @@
   "blocks2": [
     {
       "block": "subhead",
-      "text": "A solução"
+      "text": "O problema"
     },
     {
       "block": "text",

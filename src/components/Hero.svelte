@@ -76,12 +76,12 @@
     <!-- <div class="absolute w-full"> -->
     <Header />
     <!-- </div> -->
-    <div class="overlays">
+    <!-- <div class="overlays">
       <div class="intro-svg">
         <img src="assets/img/2_mapa_cidade_sem_fundo.png" alt="Map of the United States"/>
        </div>
    
-    </div>
+    </div> -->
     {#if w < 700}
       <div class="hed">
         <p class="hed-text">Aterro Vivo, Museu Renovado</p>
@@ -101,7 +101,7 @@
             <p class="intro-text" style="max-width: {introBlockW}px">{copy.description}</p>
             
             <p class="mb-1 byline sm">
-              Desenvolvidor por &nbsp&nbsp<a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
+              Desenvolvidor por <span><br></span><a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
             </p>
             
           </div>

@@ -6,9 +6,9 @@
 <header>
   <div class="headerWrapper">
   <div class="wordmark">
-    <a href="https://prefeitura.rio/" aria-label="The Pudding">
+    <!-- <a href="https://prefeitura.rio/" aria-label="The Pudding">
       <img src={logoPrefeitura} alt="Logo Prefeitura" />
-    </a>
+    </a> -->
   </div>
 
   <div class="topLeftImage">
@@ -24,7 +24,7 @@
  position: relative;
 }
 .topLeftImage {
-  max-width: 9em;
+  max-width: 12em;
   margin: 0 auto;
  position: absolute;
  padding: 1em 1em;
@@ -32,7 +32,7 @@
 }
 
   .wordmark {
-    max-width: 15em;
+    max-width: 20em;
     margin: 0 auto;
     padding: 1em 0;
   }
