@@ -76,19 +76,19 @@
     <!-- <div class="absolute w-full"> -->
     <Header />
     <!-- </div> -->
-    <!-- <div class="overlays">
+    <div class="overlays">
       <div class="intro-svg">
-        <img src="assets/img/2_mapa_cidade_sem_fundo.png" alt="Map of the United States"/>
+        <img src="assets/img/00_CAPA_SEM_FUNDO.png" alt="Map of the United States"/>
        </div>
    
-    </div> -->
+    </div>
     {#if w < 700}
       <div class="hed">
-        <p class="hed-text">Aterro Vivo, Museu Renovado</p>
+        <p style='margin-top:5rem; font-size:50px !important' class="hed-text">Aterro Vivo, Museu Renovado</p>
         <div class="intro-block">
           <p class="intro-text">{copy.description}</p>
           <p class="byline sm">
-            Desenvolvi por &nbsp&nbsp<a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
+            Desenvolvido por &nbsp&nbsp<a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
           </p>
         </div>
       </div>
@@ -101,7 +101,7 @@
             <p class="intro-text" style="max-width: {introBlockW}px">{copy.description}</p>
             
             <p class="mb-1 byline sm">
-              Desenvolvidor por <span><br></span><a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
+              Desenvolvido por <span><br></span><a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
             </p>
             
           </div>
@@ -118,11 +118,14 @@
 
 <style>
   .intro-svg img {
- margin-top:5rem;
+ margin-top:-5rem;
  display: block;
  margin-left: auto;
  margin-right: auto;
- width: 50%; 
+ width: 100%; 
+ transform: scale(1.5);
+ padding-top:5rem;
+ padding-bottom:5rem;
 }
 
   .intro-wrapper {
@@ -136,16 +139,11 @@
     margin: -3rem auto 0 auto;
     pointer-events: none;
   }
-  .intro-svg,
   .intro-cutout {
     width: 100%;
     position: relative;
     top: 0;
     left: 0;
-  }
-
-  .intro-svg {
-    opacity: 0.95;
   }
 
   .hed {
@@ -221,7 +219,7 @@
   }
 
   :global(.intro-svg svg) {
-    width: 100%;
+    width: 200%;
   }
 
   :global(.intro-svg svg #large_x5F_us path) {

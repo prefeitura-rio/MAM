@@ -189,7 +189,7 @@
     {/if}
   </section>
 
-  <section style="margin-top:-20px" class="intro-section" bind:clientHeight={introH}>
+  <section style="margin-top:28rem" class="intro-section" bind:clientHeight={introH}>
     <div class="text-wrapper">
       {#each copy.solucao_continuacao as props, i}
         <svelte:component

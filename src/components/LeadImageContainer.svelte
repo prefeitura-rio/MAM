@@ -30,21 +30,21 @@
       triggerStep: 1,
       endStep: 2,
       position: "row-start-1 col-start-2 col-span-5",
-      positionMobile: "row-start-1 col-start-3 col-span-8",
+      positionMobile: "row-start-2 col-start-1 col-span-12",
       altText: "A black and white photo of the author's grandmother and grandfather posing for a picture together in front of an old car. The grandmother is wearing a dress, long coat, glasses, and a bonnet. The grandfather is wearing jeans with a long sleeve button up tucked in."
     },
     "madera-mom": {
       triggerStep: 1,
       endStep: 2,
       position:"row-start-2 col-start-6 col-span-7",
-      positionMobile: "row-start-2 col-start-6 col-span-8",
+      positionMobile: "row-start-4 col-start-1 col-span-12",
       altText: "A black and white photo of the author's mother and grandmother sitting on a lawn with three small children."
     },
     "cimeira3": {
       triggerStep: 1,
       endStep: 2,
       position:"row-start-4 col-start-8 col-span-4",
-      positionMobile: "row-start-2 col-start-1 col-span-8",
+      positionMobile: "row-start-5 col-start-1 col-span-12",
       altText: "A black and white photo of the author's mother and grandmother sitting on a lawn with three small children."
     },
     "gardena-mom-and-me": {
@@ -273,7 +273,7 @@
           </div>
         </div> 
         {:else}
-        <div data-index={positioningClasses[key].triggerStep} data-end={positioningClasses[key].endStep} class={`${positioningClasses[key].positionMobile} transition-opacity duration-500 opacity-0`}>
+        <div data-index={positioningClasses[key].triggerStep} data-end={positioningClasses[key].endStep} class={`${positioningClasses[key].positionMobile} imagem-teste transition-opacity duration-500 opacity-0`}>
           <div class="border-2 border-black">
             <ImageRaw 
               className="w-full"
@@ -365,4 +365,13 @@
       height: 12rem;
     }
   }
+  @media only screen and (max-width: 620px) {
+    section{
+        width: 110%;
+        height: 50rem;
+    
+      }
+    }
+
+  
 </style>

@@ -1,13 +1,13 @@
 {
   "title": "MAM",
-  "description": "Neste especial, você será convidado para uma viagem na história de uma das maiores obras da arquitetura carioca, o Museu de Arte Moderna do Rio de Janeiro.",
+  "description": "Um dos principais cartões portais do Rio, o Museu de Arte Moderna (MAM Rio) viveu dias de esplendor que marcaram a história cultural da cidade e do Brasil. Contudo, problemas diversos e a má conservação de administrações passadas fizeram com que este ícone da arquitetura mundial mergulhasse em um estado de decadência. Mas um projeto audacioso promete resgatar o MAM Rio do esquecimento. Com a chegada do G20, um projeto para restauração e recuperação deste incrível promete resgatar a antiga glória e virar um legado para a cidade. Neste especial, você entenderá como planejamos essa transformação.",
   "byline": "Aaron Williams",
   "bylineUrl": "https://pudding.cool/author/aaron-williams",
   "url": "https://pudding.cool",
   "keywords": "story",
   "intro": [  {
     "block": "subhead",
-    "text": "A História"
+    "text": "<div style='text-align:left '>A História</div>"
   },
     {
       "block": "text",
@@ -17,7 +17,7 @@
   ],
   "problema": [  {
     "block": "subhead",
-    "text": "<br><br>O problema"
+    "text": "<div style='text-align:left; margin-top:17rem'>O problema</div>"
   },
     {
       "block": "text",
@@ -27,7 +27,7 @@
   ],
   "solucao": [  {
     "block": "subhead",
-    "text": "A solução <div style=' margin-top:5rem;display: block;margin-left: auto;margin-right: auto;width: 100%;'><img src='assets/img/solucao_photo.jpg'/></div>"
+    "text": "<div style='text-align:left '>A Solução</div> <div class='border-2 border-black ' style=' margin-top:5rem;display: block;margin-left: -17rem;margin-right: auto;width: 200%;'><img src='assets/img/solucao_photo.jpg'/></div>"
   },
     {
       "block": "text",
@@ -109,7 +109,7 @@
    
     {
       "block": "triptych",
-      "text": "<div style='padding-top:2rem'></div><strong>Primeira </strong>Trator preparando o terreno para a construção do conjunto arquitetônico do MAM. 1954 <strong>Segunda </strong> Concretagem da estrutura <strong>Terceira </strong> Concretagem da estrutura"
+      "text": "<div style='padding-top:2rem'></div><strong>Primeira </strong>Trator preparando o terreno para a construção do conjunto arquitetônico do MAM. 1954 <strong>Segunda </strong> Concretagem da estrutura <strong>Terceira </strong> Concretagem da estrutura <br><br>"
     }
  
  
@@ -117,13 +117,13 @@
   "blocks_problema": [
     {
       "block": "problema",
-      "text": "<strong>Primeira </strong>Trator preparando o terreno para a construção do conjunto arquitetônico do MAM. 1954 <strong>Segunda </strong> Concretagem da estrutura <strong>Terceira </strong> Concretagem da estrutura"
+      "text": "<div style='padding-top:2rem'></div><strong>Primeira </strong>Club de Regatas Boqueirão do Passeio <strong>Segunda </strong> Ao lado do Clube Terrasse Rio <strong>Terceira </strong> Club de Regatas Vasco da Gama (Sede Calabouço)"
     }
   ],
   "blocks_deterioracao": [
     {
       "block": "deterioracao",
-      "text": "<strong>Primeira </strong>Trator preparando o terreno para a construção do conjunto arquitetônico do MAM. 1954 <strong>Segunda </strong> Concretagem da estrutura <strong>Terceira </strong> Concretagem da estrutura"
+      "text": "<div style='padding-top:2rem'></div><strong>Primeira </strong> Jardins do MAM <strong>Segunda </strong> Pilares de concreto do MAM <strong>Terceira </strong> Pilares de concreto do MAM"
     }
   ],
   "blocks_solucao": [

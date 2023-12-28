@@ -27,7 +27,7 @@
   <div class="trip-wrapper"
     use:inView
     on:enter={() => showPhotos()}>
-    <div class="relative z-0 flex flex-col justify-between w-full max-w-5xl mx-auto my-0">
+    <div  id="package" class="relative z-0 flex flex-col justify-between w-full max-w-5xl mx-auto my-0">
       <div class="border-2 border-black" id="madera-triptych">
         <ImageRaw src="assets/img/deterioracao1.jpg" />
       </div>
@@ -123,4 +123,33 @@
         left: 2%;
       }
     }
+    @media only screen and (max-width: 620px) {
+    .trip-wrapper{
+      padding-bottom: 60rem;
+
+    }
+    .text-label {
+      padding-top: 70px;
+    }
+
+    #package {
+      padding-bottom: 650px;
+    }
+    #madera-triptych {
+      transform: scale(1.7);
+      top: 1rem;
+      left: 3.5rem;
+    }
+
+    #gardena1-triptych {
+      transform: scale(1.7);
+      top: 16.5rem;
+      left: 3.5rem;
+    }
+
+    #gardena2-triptych {
+      transform: scale(1.7);
+      left: 3.5rem;
+    }
+  }
   </style>

@@ -6,9 +6,9 @@
 <header>
   <div class="headerWrapper">
   <div class="wordmark">
-    <!-- <a href="https://prefeitura.rio/" aria-label="The Pudding">
+    <a href="https://prefeitura.rio/" aria-label="The Pudding">
       <img src={logoPrefeitura} alt="Logo Prefeitura" />
-    </a> -->
+    </a>
   </div>
 
   <div class="topLeftImage">

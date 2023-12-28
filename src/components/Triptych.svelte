@@ -27,7 +27,7 @@
   <div class="trip-wrapper"
     use:inView
     on:enter={() => showPhotos()}>
-    <div class="relative z-0 flex flex-col justify-between w-full max-w-5xl mx-auto my-0">
+    <div id="package" class="relative z-0 flex flex-col justify-between w-full max-w-5xl mx-auto my-0">
       <div class="border-2 border-black" id="madera-triptych">
         <ImageRaw src="assets/img/madera.jpg" />
       </div>
@@ -122,5 +122,32 @@
       #gardena2-triptych {
         left: 2%;
       }
+    }
+
+    @media only screen and (max-width: 620px) {
+      .text-label{
+        padding-top:50px;
+
+      }
+    
+      #package{
+      padding-bottom:425px;
+    }
+    #madera-triptych {
+      transform: scale(1.5);
+      top: -10rem;
+      left: 2rem;
+    }
+
+    #gardena1-triptych {
+      transform: scale(1.7);
+      top: 5rem;
+      left:4.0rem
+    }
+
+    #gardena2-triptych {
+      transform: scale(1.6);
+      left:4rem;
+    }
     }
   </style>

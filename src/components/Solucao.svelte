@@ -29,13 +29,13 @@
     on:enter={() => showPhotos()}>
     <div class="relative z-0 flex flex-col justify-between w-full max-w-5xl mx-auto my-0">
       <div class="border-2 border-black" id="madera-triptych">
-        <ImageRaw src="assets/img/solucao_mam.jpg" />
+        <ImageRaw src="assets/img/f02.jpg" />
       </div>
       <div class="border-2 border-black" id="gardena1-triptych">
-        <ImageRaw src="assets/img/solucao_mam2.jpg" />
+        <ImageRaw src="assets/img/f03.jpg" />
       </div>
       <div class="border-2 border-black" id="gardena2-triptych">
-        <ImageRaw src="assets/img/solucao_mam3.jpg" />
+        <ImageRaw src="assets/img/f04.jpg" />
       </div>
     </div>
     <Block>
@@ -44,11 +44,12 @@
   </div>
 
   <style>
+
     .trip-wrapper {
       height: calc(100vw*1.25);
       padding: 1rem 1rem 0rem 1rem;
-      max-width: 60rem;
-      max-height: 60rem;
+      /* max-width: 60rem; */
+      max-height: 100rem;
       margin: 0 auto;
       display: flex;
       flex-direction: column;
@@ -82,17 +83,17 @@
     }
 
     #gardena1-triptych {
-      top: 25%;
+      top: 50%;
       right: 0;
     }
 
     #gardena2-triptych {
-      bottom: 0;
-      left: 0;
+      top: 100%;
+      right: 0;
     }
 
     #madera-triptych, #gardena1-triptych, #gardena2-triptych {
-      width: 65%;
+      width: 100%;
     }
 
     @media only screen and (min-width: 700px) {
@@ -102,12 +103,10 @@
       }
 
       #madera-triptych, #gardena1-triptych, #gardena2-triptych {
-        width: 65%;
+        width: 100% !important;
       }
 
-      #gardena2-triptych {
-        left: 2%;
-      }
+    
     }
 
     @media only screen and (min-width: 900px) {
@@ -119,8 +118,7 @@
         width: 55%;
       }
 
-      #gardena2-triptych {
-        left: 2%;
-      }
+     
     }
+   
   </style>
