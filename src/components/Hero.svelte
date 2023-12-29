@@ -84,7 +84,7 @@
     </div>
     {#if w < 700}
       <div class="hed">
-        <p style='margin-top:5rem; font-size:50px !important' class="hed-text">Aterro Vivo, Museu Renovado</p>
+        <p style='margin-top:5rem; font-size:50px !important' class="hed-text">Museu Renovado, Parque Vivo</p>
         <div class="intro-block">
           <p class="intro-text">{copy.description}</p>
           <p class="byline sm">
@@ -96,7 +96,7 @@
       <div class="hed">
         <!-- <div><p class="hed-text">On</p></div> -->
         <div class="hed-block">
-          <p class="hed-text"><span bind:clientWidth={introBlockW}>Aterro Vivo, Museu Renovado</span></p>
+          <p class="hed-text"><span bind:clientWidth={introBlockW}>Museu Renovado, Parque Vivo</span></p>
           <div class="intro-block">
             <p class="intro-text" style="max-width: {introBlockW}px">{copy.description}</p>
             
@@ -118,7 +118,7 @@
 
 <style>
   .intro-svg img {
- margin-top:-5rem;
+ margin-top:-12rem;
  display: block;
  margin-left: auto;
  margin-right: auto;

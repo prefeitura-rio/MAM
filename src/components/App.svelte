@@ -159,6 +159,9 @@
       <Stains height={preMapH} />
     {/if}
   </section>
+  <div class="iframe-container">
+    <iframe class="border-2 border-black" width="900" height="500" src="https://www.youtube.com/embed/vmqZFQy_lhg?si=4rjb380bBc_HiGv5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
   <section style="margin-top:-20px" class="intro-section" bind:clientHeight={introH}>
     <div class="text-wrapper">
@@ -221,10 +224,23 @@
 </article>
 
 <style>
-  /* .spacer {
-    height: 75vh;
-  } */
+  .iframe-container iframe {
+  position: relative;
+  z-index: 9999; /* Ajuste o valor conforme necessário */
+}
+  .iframe-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full height of the viewport */
+  width: 100%; /* Full width of the viewport */
+}
 
+iframe {
+  /* Optional: To ensure the iframe is responsive and maintains aspect ratio */
+  max-width: 100%;
+  max-height: 100%;
+}
   .text-wrapper {
     padding-top:5rem;
     position: relative;
