@@ -6,7 +6,7 @@
 <header>
   <div class="headerWrapper">
   <div class="wordmark">
-    <a href="https://prefeitura.rio/" aria-label="The Pudding">
+    <a href="https://dados.rio/" target="_blank" aria-label="The Pudding">
       <img src={logoPretoHorizontal} alt="Logo Prefeitura" />
     </a>
   </div>
