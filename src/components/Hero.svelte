@@ -86,7 +86,8 @@
       <div class="hed">
         <p style='margin-top:5rem; font-size:50px !important' class="hed-text">Museu Renovado, Parque Vivo</p>
         <div class="intro-block">
-          <p class="intro-text">{copy.description}</p>
+          <p class="intro-text">{copy.description}</p>   
+          <p class="intro-text">{copy.description_continuation}</p>
           <p class="byline sm">
             Desenvolvido por &nbsp&nbsp<a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
           </p>
@@ -99,7 +100,8 @@
           <p class="hed-text"><span bind:clientWidth={introBlockW}>Museu Renovado, Parque Vivo</span></p>
           <div class="intro-block">
             <p class="intro-text" style="max-width: {introBlockW}px">{copy.description}</p>
-            
+           
+          <p class="intro-text"style="max-width: {introBlockW}px" >{copy.description_continuation}</p>
             <p class="mb-1 byline sm">
               Desenvolvido por <span><br></span><a href="https://www.dados.rio"  target="_blank">Escritório de Dados da Prefeitura do Rio de Janeiro </a> 
             </p>
