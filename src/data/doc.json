@@ -1,7 +1,7 @@
 {
   "title": "MAM",
   "description": "Cartão postal do Rio, junto à paisagem da Baía de Guanabara, o Museu de Arte Moderna (MAM Rio) viveu dias de esplendor que marcaram a história cultural da cidade e do Brasil. Com o tempo, contudo, situações adversas contribuíram para a má conservação e fizeram com que este ícone da arquitetura mundial perdesse sua relevância no cenário cultural.",
-  "description_continuation": "Mas isso vai mudar. Com o Rio sendo a capital do G20 em 2024, um projeto de restauração e requalificação do museu e seu entorno promete resgatar a originalidade modernista do espaço e sua relevância nacional e internacional, deixando um legado para uma cidade que olha para a frente. Neste especial, você entenderá como a Prefeitura do Rio planeja essa transformação.",
+  "description_continuation": "Mas isso vai mudar. Com o Rio sendo a capital do G20 em 2024, um projeto de restauração e requalificação do museu e seu entorno promete resgatar a originalidade modernista do espaço e sua relevância nacional e internacional, deixando um legado para uma cidade que olha para a frente.",
   "byline": "Aaron Williams",
   "bylineUrl": "https://pudding.cool/author/aaron-williams",
   "url": "https://pudding.cool",
@@ -12,7 +12,7 @@
   },
     {
       "block": "text",
-      "text": "Fundado em 1948, o Museu de Arte Moderna do Rio de Janeiro (MAM Rio) destaca-se como uma influente instituição cultural e artística no Brasil. Localizado no Parque do Flamengo, foi projetado pelo arquiteto franco-carioca  Affonso Eduardo Reidy, funcionário público que por anos trabalhou para a então Prefeitura do Distrito Federal, antes localizada no Rio de Janeiro.\r\n\r\n\r\n O museu abriga uma coleção notável com mais de <span style='font-weight:bold'> 16 mil obras de arte moderna e contemporânea</span>, a segunda cinemateca mais antiga em atividade no país com mais de 7 mil títulos e a maior coleção documental sobre o cinema brasileiro, que o fez desempenhar um papel crucial no desenvolvimento artístico e cultural do Rio de Janeiro. \r\n\r\n\r\n Reconhecido como um marco da arquitetura moderna global, o conceito por trás do projeto de construção tinha como objetivo criar um “espaço fluente”, preservando a harmonia entre as pessoas e a paisagem circundante. \r\n\r\n\r\n Situado no Parque do Flamengo, o MAM Rio encontra-se próximo ao Aeroporto Santos Dumont (menos de 850 metros), ao Monumento Nacional aos Mortos da Segunda Guerra Mundial e a uma curta distância do Centro Histórico da cidade. Da sua localização, é possível avistar pontos emblemáticos como o Pão de Açúcar, a igreja histórica do Outeiro da Glória, o Corcovado e a Baía de Guanabara. Trata-se de um portal icônico entre o Centro e a Zona Sul do Rio."
+      "text": "Fundado em 1948, o Museu de Arte Moderna do Rio de Janeiro (MAM Rio) destaca-se como uma influente instituição cultural e artística no Brasil. Localizado no Parque do Flamengo, foi projetado pelo arquiteto franco-carioca  Affonso Eduardo Reidy, funcionário público que por anos trabalhou para a então Prefeitura do Distrito Federal, antes localizada no Rio de Janeiro.\r\n\r\n\r\n O museu abriga uma coleção notável com mais de <span style='font-weight:bold'> 16 mil obras de arte moderna e contemporânea</span>,e a segunda cinemateca mais antiga em atividade no país – com mais de 7 mil títulos e a maior coleção documental sobre o cinema brasileiro –, que o fizeram desempenhar um papel crucial no desenvolvimento artístico e cultural do Rio de Janeiro. \r\n\r\n\r\n Reconhecido como um marco da arquitetura moderna global, o conceito por trás do projeto de construção tinha como objetivo criar um “espaço fluente”, preservando a harmonia entre as pessoas e a paisagem circundante. \r\n\r\n\r\n Situado no Parque do Flamengo, o MAM Rio encontra-se próximo ao Aeroporto Santos Dumont (menos de 850 metros), ao Monumento Nacional aos Mortos da Segunda Guerra Mundial e a uma curta distância do Centro Histórico da cidade. Da sua localização, é possível avistar pontos emblemáticos como o Pão de Açúcar, a igreja histórica do Outeiro da Glória, o Corcovado e a Baía de Guanabara. Trata-se de um portal icônico entre o Centro e a Zona Sul do Rio."
     }
     
   ],
@@ -22,7 +22,7 @@
   },
     {
       "block": "text",
-      "text": "Apesar de ter sido palco de importantes eventos diplomáticos no Brasil e abrigar importante acervo e atividades culturais, o MAM luta com sucessivos desequilíbrios entre receitas e despesas durante os últimos 20 anos e restauração do seu valor e busca por novas vocações. \r\n\r\n\r\n A história do museu ainda se mescla com um processo recente de urbanização, que descaracterizou o projeto e seu conceito de “espaço fluente”.\r\n\r\n\r\n A orla, uma das mais belas obras de arte naturais do Rio de Janeiro, agora encontra-se escondida por edificações privadas que limitam o uso público de uma importante área verde."
+      "text": "Apesar de ter sido palco de importantes eventos diplomáticos no Brasil e abrigar importante acervo e atividades culturais, o MAM luta com sucessivos desequilíbrios entre receitas e despesas durante os últimos 20 anos. \r\n\r\n\r\n A história do museu ainda se mescla com um processo recente de urbanização, que descaracterizou o projeto e seu conceito de “espaço fluente”.\r\n\r\n\r\n A orla, uma das mais belas obras de arte naturais do Rio de Janeiro, agora encontra-se escondida por edificações privadas que limitam o uso público de uma importante área verde."
     }
     
   ],
@@ -112,12 +112,12 @@
       "block": "leadtext",
    
       "id": "fremont",
-      "text": "Alguns anos mais tarde, problemas de ordem estrutural acometeram as edificações do MAM, e a falta de segurança para o acervo levou à suspensão das atividades do espaço. O MAM conseguiu superar essas dificuldades, através de uma grande reforma que permitiu a reabertura do museu ao público em 1989"
+      "text": "Alguns anos mais tarde, problemas de ordem estrutural acometeram as edificações do MAM, e a falta de segurança para o acervo levou à suspensão das atividades do espaço. Após uma grande reforma, o MAM conseguiu superar essas dificuldades e reabriu ao público em 1989."
     },
     {
       "block": "leadtext",
       "id": "2acervo",
-      "text": "Com um comodato de mais de seis mil obras do acervo pessoal do diplomata e filho de Assis Chateaubriand, Gilberto Chateaubriand, o museu renasceu, apresentando uma coleção que inclui obras de artistas renomados como Tarsila do Amaral, Hélio Oiticica, Maria Martins, Lygia Clark, Auguste Rodin, Candido Portinari e Anita Malfatti. A partir deste recomeço o museu reconstruiu o seu próprio acervo que conta hoje com mais sete mil obras, incluindo artistas como Djanira, Alberto Giacometti, Constantin Brancusi, Lygia Pape, Tunga e outros e comodato adicional do diplomata Joaquim Paiva de cerca de três mil fotografias."
+      "text": "Com um comodato de mais de seis mil obras do acervo pessoal do diplomata e filho de Assis Chateaubriand, Gilberto Chateaubriand, o museu renasceu, apresentando uma coleção que inclui obras de artistas renomados como Tarsila do Amaral, Hélio Oiticica, Maria Martins, Lygia Clark, Auguste Rodin, Candido Portinari e Anita Malfatti. A partir deste recomeço, o museu reconstruiu o seu próprio acervo que conta hoje com mais sete mil obras, incluindo artistas como Djanira, Alberto Giacometti, Constantin Brancusi, Lygia Pape, Tunga e outros e comodato adicional do diplomata Joaquim Paiva de cerca de três mil fotografias."
     },
     
     {
